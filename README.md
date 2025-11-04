@@ -246,4 +246,4 @@ For questions, suggestions, or collaborations:
 
 ⭐ If you found this project helpful, please consider giving it a star!
 
-**Built with ❤️ using ython and Jupyter Notebook **
+**Built with ❤️ using Python and Jupyter Notebook **
