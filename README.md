@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Nay Zaw Lin**
-- GitHub: [@nayzawlin](https://github.com/nayzawlin)
+- GitHub: [@neolin-pro](https://github.com/neolin-pro)
 - Email: nayzawlin07@gmail.com
 
 ## 🙏 Acknowledgments
